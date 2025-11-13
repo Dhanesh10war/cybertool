@@ -8,3 +8,7 @@
 2025-11-13 04:42:39 | INFO     | RED_TEAM | Port scan completed: localhost - 0 open ports
 2025-11-13 04:42:45 | INFO     | RED_TEAM | Port scan started: localhost ports 1-100
 2025-11-13 04:42:45 | INFO     | RED_TEAM | Port scan completed: localhost - 0 open ports
+2025-11-13 04:48:05 | INFO     | SYSTEM | Audit logger initialized
+2025-11-13 04:48:31 | INFO     | SYSTEM | Audit logger initialized
+2025-11-13 04:51:38 | INFO     | SYSTEM | Audit logger initialized
+2025-11-13 04:51:38 | INFO     | SYSTEM | Application started
