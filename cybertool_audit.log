@@ -1,0 +1,10 @@
+2025-11-13 04:23:43 | INFO     | SYSTEM | Audit logger initialized
+2025-11-13 04:23:43 | INFO     | SYSTEM | Application started
+2025-11-13 04:27:34 | INFO     | SYSTEM | Audit logger initialized
+2025-11-13 04:27:34 | INFO     | SYSTEM | Application started
+2025-11-13 04:34:01 | INFO     | SYSTEM | Audit logger initialized
+2025-11-13 04:40:04 | INFO     | SYSTEM | Audit logger initialized
+2025-11-13 04:42:39 | INFO     | RED_TEAM | Port scan started: localhost ports 1-1024
+2025-11-13 04:42:39 | INFO     | RED_TEAM | Port scan completed: localhost - 0 open ports
+2025-11-13 04:42:45 | INFO     | RED_TEAM | Port scan started: localhost ports 1-100
+2025-11-13 04:42:45 | INFO     | RED_TEAM | Port scan completed: localhost - 0 open ports
